@@ -1,2 +1,38 @@
-# Baekjoon
-This is Algorithm study using Baekjoon Online Judge &amp; solved.ac Class
+# 광운대학교 멋쟁이들의 알고리즘 스터디
+
+<img width="260" alt="스크린샷 2022-07-07 오후 12 39 33" src="https://user-images.githubusercontent.com/88064555/177685693-f057dd2b-7bd1-4a5f-8923-84d156a2c37a.png">
+<img width="111" alt="스크린샷 2022-07-07 오후 12 39 26" src="https://user-images.githubusercontent.com/88064555/177685725-463ae5a5-e4f4-40ff-960f-5240c23913d4.png">
+
+----
+
+## 참여자
+
++ 이정연 / 1997 / 천안
++ 조시언 / 1997 / 진주
++ 최동혁 / 1997 / 천안
++ 허태원 / 1998 / 울산
+
+## 진행 방법
+
+0. 문제집: solved.ac Class3 ~ Class4
+1. 공통 문제 N 문제를 고른다.
+2. 개인 발표 문제 (N/4) 문제를 분배한다.
+3. 매주 금요일 전까지 공통 문제 N 문제를 전부 풀고 리포지토리에 업로드 한다.
+4. 매주 금요일 개인 발표 문제 (N/4) 문제를 어떠한 방식으로 풀었는지 멤버들에게 발표한다.
+5. 1번부터 다시 반복한다.
+
+## Directory 생성자
+
+참여자의 가나다 순으로 매주 Directory를 생성한다.
+초기 시작은 이정연이 할테니 양식에 맞춰 잘 생성해주길 바란다.
+
++ **필독**
+
+    파일명은 반드시 "깃허브아이디.언어명"으로 해주길 바란다. 왜냐하면 나중에 다시 보았을 때 누가 푼 것인지 알아보기 위함이다.
+
+    ex) happyyeon.py
+
+
+
+
+
