@@ -1,4 +1,4 @@
-# 경로 찾기
+# 특정한 최단 경로
 
 solved_ac[Class4] [특정한 최단 경로](https://www.acmicpc.net/problem/1504)
 
