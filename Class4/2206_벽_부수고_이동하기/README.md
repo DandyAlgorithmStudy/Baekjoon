@@ -1,4 +1,4 @@
-# 경로 찾기
+# 벽 부수고 이동하기
 
 solved_ac[Class4] [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
 

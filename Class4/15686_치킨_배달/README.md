@@ -1,4 +1,4 @@
-# 경로 찾기
+# 치킨 배달
 
 solved_ac[Class4] [치킨 배달](https://www.acmicpc.net/problem/15686)
 
