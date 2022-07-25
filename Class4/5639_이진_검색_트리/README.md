@@ -1,4 +1,4 @@
-# 경로 찾기
+# 이진 검색 트리
 
 solved_ac[Class4] [이진 검색 트리](https://www.acmicpc.net/problem/5639)
 
